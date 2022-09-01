@@ -4,7 +4,7 @@
 
 ## 반갑습니다!🙋
 
-백엔드 개발자가 목표인 대학생입니다.
+백엔드 개발자가 목표인 19학번 대학생입니다.
 
 <a href="https://velog.io/@dodo4723" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
