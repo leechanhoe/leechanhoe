@@ -4,7 +4,7 @@
 
 ## 반갑습니다!🙋
 
-백엔드 개발에 관심이 많은 대학생입니다.
+컴퓨터, 백엔드 개발에 관심이 많은 대학생입니다.
 
 블로그 <a href="https://velog.io/@dodo4723" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
@@ -52,5 +52,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleechanhoe%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![LeeChanHoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechanhoe&hide=contribs,prs)
+
+<br>
+<br>
+
+### 나와의 약속
+
+매일 알고리즘 한 문제 이상 풀기
+
+매일 운동 30분~1시간
 
 </div>
