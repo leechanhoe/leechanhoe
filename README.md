@@ -62,4 +62,6 @@
 
 매일 운동 30분이상
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 </div>
