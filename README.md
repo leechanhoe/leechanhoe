@@ -6,7 +6,7 @@
 
 컴퓨터, 인공지능, 백엔드 개발에 관심이 많은 대학생입니다.
 
-블로그 <a href="https://velog.io/@dodo4723" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+블로그 >> <a href="https://velog.io/@dodo4723" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 <br>
 <br>
