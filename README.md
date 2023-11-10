@@ -33,7 +33,7 @@
 
 <br>
 
-### **이외에 조금 맛본 기술들👇
+### 이외에 조금 맛본 기술들👇
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
