@@ -6,7 +6,7 @@
 
 컴퓨터, 인공지능, 백엔드 개발에 관심이 많은 대학생입니다.
 
-<a href="https://similarchart" target="_blank"><img src="https://img.shields.io/badge/블로그(tistory)-FF9E0F?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://similarchart.com" target="_blank"><img src="https://img.shields.io/badge/블로그(tistory)-FF9E0F?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 <a href="http://3.35.36.208/" target="_blank"><img src="https://img.shields.io/badge/제작중인 웹페이지-00D1B2?style=flat-square&logo=googleanalytics&logoColor=white"/></a>
 
