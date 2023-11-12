@@ -29,7 +29,7 @@
 <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-139BB4?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++(코딩테스트용)-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++(코딩테스트용)-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/tensorflow(CNN)-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
 
 <br>
