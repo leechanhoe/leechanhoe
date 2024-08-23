@@ -65,12 +65,7 @@
 
 <br>
 <br>
-
-### 나와의 약속
-
-매일 알고리즘 한 문제 이상 풀기
-
-매일 운동 30분이상
+<br>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
