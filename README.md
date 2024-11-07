@@ -6,7 +6,7 @@
 
 '비슷한 차트 검색기 - 주가 예측' 웹 & 앱 서비스 개발자입니다.
 
-<a href="https://similarchart.com" target="_blank"><img src="https://img.shields.io/badge/(신)블로그(tistory)-FF9E0F?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://blog.similarchart.com" target="_blank"><img src="https://img.shields.io/badge/(신)블로그(tistory)-FF9E0F?style=flat-square&logo=tistory&logoColor=white"/></a>
 <a href="https://velog.io/@dodo4723" target="_blank"><img src="https://img.shields.io/badge/(구)블로그(velog)-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
 <a href="https://www.similarchart.com" target="_blank"><img src="https://img.shields.io/badge/비슷한 차트 검색기(웹 & 앱 서비스)-239120?style=flat-square&logo=googleanalytics&logoColor=white"/></a>
